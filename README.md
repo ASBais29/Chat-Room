@@ -1,6 +1,6 @@
 # Chat-Room (work-in-progress)
 
-![Chat-Room](https://chat-room-asbais29.herokuapp.com)
+[Chat-Room](https://chat-room-asbais29.herokuapp.com)
 
 Real time chat application with room support.
 Built using Socket.io to manage web socket connections to a Node.js server that will allow you to communicate real time chat messages to all clients connected to that particular server.
